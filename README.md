@@ -19,9 +19,12 @@ El Coqui is a 2D/2.5D metroidvania inspired by Puerto Rican folklore, movement-f
 - Original worldbuilding and narrative direction
 
 ## Built With
-- Unity
-- C#
-- WebGL
+- Unity — game engine
+- C# — gameplay systems and scripting
+- Unity Input System — keyboard/controller input
+- Git/GitHub — version control
+- Notion — Game Design Document and development planning
+- Astra-6 / Codex — AI-assisted development, prototyping, debugging, and iteration
 
 ## Status
 Prototype / Work in Progress
